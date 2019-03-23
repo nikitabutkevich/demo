@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
+  "books": [
+    { "id": 1, "bookTitle": "Подсознание может всё!", "authorName": "Джон Кехо", "datePublish": 2019, "edition": "Попурри",	"numberPages": 160, "genre": "Научно-популярная литература", "coverURL": "https://s1-goods.ozstatic.by/2000/200/264/10/10264200_0.jpg" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
