@@ -98,7 +98,7 @@
 		"genre": "Художественная литература",
 		"numberPages": 480,
 		"coverURL": "https://s1-goods.ozstatic.by/2000/131/548/10/10548131_0.jpg"
-	},
+	}/*,
 	{
 		'id': 11,
 		'bookTitle': "World of Warcraft. Перед бурей",
@@ -298,6 +298,6 @@
 		'genre': "Кулинария. Напитки",
 		'numberPages': 320
 		'coverURL': "https://s4-goods.ozstatic.by/2000/936/639/10/10639936_0.jpg"
-	}
+	}*/
   ]
 }
